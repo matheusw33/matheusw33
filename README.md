@@ -1,5 +1,5 @@
 
-## Olá eu sou o Matheus Cruz, estudante de Front end na Alura!
+## Olá eu sou o Matheus Cruz, estudante de Front end!
 <div align="center">
   <a href="https://github.com/matheusw33">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=matheusw33&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
