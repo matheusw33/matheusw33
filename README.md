@@ -13,7 +13,6 @@
   <img align="center" alt="Rafa-CSS" height="35" width="40" src="https://img.icons8.com/color/48/000000/sass.png"/>
   <img align="center" alt="Rafa-CSS" height="35" width="40"  src="https://img.icons8.com/material-rounded/24/ffffff/github.png"/>
   <img align="center" alt="Rafa-CSS" height="35" width="40"  src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img align="center" alt="Rafa-CSS" height="35" width="40"  src="https://img.icons8.com/color/48/000000/typescript.png"/>
 </div>
   
   <div>   
